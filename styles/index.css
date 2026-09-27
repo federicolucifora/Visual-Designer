@@ -103,13 +103,12 @@ body {
     font-size: 1vw;
 }
 
-#irreducible {
-    background-image: url(../materials/irreducible/copertina.png);
-    background-position: 0 70%;
+#dolce_vita {
+    background-image: url(../materials/dolce_vita/cover.jpg);
 }
 
-#meet {
-    background-image: url(../materials/meet/meet1.png);
+#roma_nel_mondo {
+    background-image: url(../materials/roma_nel_mondo/cover.jpg);
 }
 
 #offthegrid {

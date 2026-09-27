@@ -73,29 +73,8 @@
     background-image: url(../materials/hells_chicken/copertina.jpg);
 }
 
-#irreducible {
-    background-image: url(../materials/irreducible/copertina.png);
-    background-position: 0 70%;
-}
-
-#meet {
-    background-image: url(../materials/meet/meet1.png);
-}
-
-#reportage {
-    background-image: url(../materials/reportage/copertina.jpg);
-}
-
-#aletheia {
-    background-image: url(../materials/aletheia/copertina.jpg);
-}
-
 #dirtypiggybank {
     background-image: url(../materials/dirtypiggybank/copertina.png);
-}
-
-#backstage {
-    background-image: url(../materials/backstage/copertina.jpg);
 }
 
 #grrr {
@@ -112,6 +91,22 @@
 
 #offthegrid {
     background-image: url(../materials/offthegrid/copertina.jpg);
+}
+
+#dolce_vita {
+    background-image: url(../materials/dolce_vita/cover.jpg);
+}
+
+#dna {
+    background-image: url(../materials/dna/cover.jpg);
+}
+
+#futura {
+    background-image: url(../materials/futura/world.jpg);
+}
+
+#roma_nel_mondo {
+    background-image: url(../materials/roma_nel_mondo/cover.jpg);
 }
 
 .emptyObject {
